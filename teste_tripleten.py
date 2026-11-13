@@ -1,0 +1,1 @@
+print("Meu projeto TripleTen está funcionando!")
